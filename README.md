@@ -2,9 +2,16 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+ # Descripción
+Proyecto Final para el curso de React de  Coder House. La aplicación permite seleccionar ciertos productos, navegar a sus detalles, agregarlos al carrito, poder acceder a él, simular la compra de los productos. Al clickear sobre el botón "realizar compra", pide llenar un formulario con datos básicos y luego de confirmar se genera un id de orden para el usuario y en firebase se guarda la orden con los productos que compró.
 
-In the project directory, you can run:
+Tecnologías y librerías:
+
+-Estilos con Bootstrap, Material-UI y preprocesador Sass
+-Ruteo con React Router Dom
+-Backend con Firebase
+
+
 
 ### `npm start`
 
